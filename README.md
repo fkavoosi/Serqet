@@ -1,5 +1,5 @@
 # Serqet
-A repository dedicated to an _Egyption_ Goddess
+A repository dedicated to an _Egyption_ Gods
 
 [//]: # (Comment line!!)
 [//]: <> (This is also a comment.)
